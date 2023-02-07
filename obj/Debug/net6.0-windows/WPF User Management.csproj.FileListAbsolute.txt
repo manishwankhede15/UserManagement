@@ -1,0 +1,33 @@
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\WPF User Management.exe
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\WPF User Management.deps.json
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\WPF User Management.runtimeconfig.json
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\WPF User Management.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\WPF User Management.pdb
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.csproj.AssemblyReference.cache
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\App.g.cs
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management_MarkupCompile.cache
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management_MarkupCompile.lref
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\MainWindow.baml
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.g.resources
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.AssemblyInfoInputs.cache
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.AssemblyInfo.cs
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.csproj.CoreCompileInputs.cache
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.dll
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\refint\WPF User Management.dll
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.pdb
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.genruntimeconfig.cache
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\ref\WPF User Management.dll
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\App.baml
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\FIles\sample projects\WPF User Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\FIles\sample projects\WPF User Management\obj\Debug\net6.0-windows\WPF User Management.csproj.CopyComplete
